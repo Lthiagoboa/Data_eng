@@ -1,0 +1,81 @@
+id,name
+1,"Executive Producer"
+2,Producer
+3,"Associate Producer"
+4,"Unit Production Manager (UPM)"
+5,Director
+6,Actor
+7,"1st Assistant Director (1st AD)"
+8,"2nd AD"
+9,"2nd 2nd AD"
+10,"Script Supervisor"
+11,"Asst. Production Coordinator"
+12,"Assistant to Producer"
+13,"Location Manager"
+14,"Technical Director"
+15,Writer
+16,Camera
+17,"Director of Photography (DP)"
+18,"2nd Unit DP"
+19,"Camera Operator (CO)"
+20,"Camera Operator (B Cam)"
+21,"1st AC"
+22,"1st AC (B Cam)"
+23,"2nd AC"
+24,Loader
+25,Sound
+26,"Sound Mixer"
+27,"Boom Operator"
+28,Utility
+29,Electrical
+30,Gaffer
+31,"Best Boy Electrician"
+32,Electrician
+33,"Electrician Generator Operator"
+34,Grip
+35,"Key Grip"
+36,"Best Boy"
+37,"Dolly Grip"
+38,Art
+39,"Production Designer"
+40,"Art Director"
+41,"Set Decorator"
+42,"Set Dresser"
+43,"Prop Master"
+44,"Assistant Props"
+45,"Weapons Wrangler"
+46,Greensman
+47,"Makeup & Hair"
+48,"Key Makeup"
+49,"Assistant Makeup"
+50,"Key Hair"
+51,"Assistant Hair"
+52,"SP/FX Makeup"
+53,Wardrobe
+54,"Wardrobe Supervisor"
+55,Costumer
+56,"Wardrobe Assistant"
+57,"Stunts & Special Effects"
+58,"SPFX Coordinator"
+59,Pyro
+60,"Stunt Coordinator"
+61,"Weapons Super"
+62,Armorer
+63,Transportation
+64,"Grip Truck"
+65,"Camera Truck"
+66,Pickup
+67,"Crew Van"
+68,Generator
+69,Catering
+70,Caterer
+71,"Craft Services"
+72,"Production Assistants"
+73,"Key Production Assistant (PA)"
+74,"Production Assistant (PA)"
+75,Editor
+76,"Sound Editor"
+77,"Assistant Editor"
+78,"Extras Casting"
+79,"Still Photographer"
+80,Accountant

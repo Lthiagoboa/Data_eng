@@ -1,0 +1,45 @@
+id,name,country_code,price
+1,"Wiener Zeitung",AT,34
+2,"KBO Public Search",BE,32
+3,"Trade Register",BG,42
+4,"Croatian Company Directory",HR,24
+5,"Department of the Registrar of Companies and Official Receiver",CY,35
+6,"Trade Licensing Register",CZ,43
+7,Erhvervsstyrelsen,DK,26
+8,"Central Commercial Register",EE,36
+9,"Finnish Trade Register",FI,25
+10,Infogreffe,FR,21
+11,Unternehmensregister,DE,17
+12,"Athens Chamber of Commerce & Industry (EBEA)",GR,29
+13,"Court of Company Registration",HU,30
+14,"Company Directory",IS,38
+15,"Companies Registration Office",IE,20
+16,"Italian Business Register",IT,18
+17,"Registry of Enterprises of Latvia",LV,45
+18,"Commercial Register",LI,38
+19,"Register of Legal Entities",LT,31
+20,"Registre de Commerce et des Sociétés",LU,22
+21,"Malta Business Registry",MT,29
+22,"Kamer van Koophandel",NL,17
+23,"Brønnøysund Register Centre",NO,28
+24,"Central Registration and Information on Business (CEIDG)",PL,35
+25,"Citizen Portal",PT,21
+26,"The National Trade Register Office (ONRC)",RO,41
+27,"Companies Register of the Slovak Republic",SK,29
+28,"Slovenian Business Register (ePRS)",SI,30
+29,"Registro Mercantil Central",ES,18
+30,Bolagsverket,SE,37
+31,"Qendra Kombetare e Biznesit",AL,45
+32,"Unified State Register of Legal Entities and Individual Entrepreneurs",BY,43
+33,"Ministry of Trade and Industry",XK,39
+34,"Licensing Chamber",MD,32
+35,"Central Registry",MK,28
+36,"National Classifier of Enterprises and Organizations",RU,16
+37,"Serbian Business Registers Agency",RS,42
+38,Zefix,CH,20
+39,"Tax Committee",TJ,30
+40,"Central Registration System (MERSÄ°S)",TR,27
+41,"State Enterprise Information Resource Centre",UA,34
+42,"Agency for the Identification Documents, Registers, and Data Exchange of Bosnia and Herzegovina (IDDEEA)",BA,35
+43,"Companies House Gibraltar",GI,14
+44,"Companies House",GB,14
